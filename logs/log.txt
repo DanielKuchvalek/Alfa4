@@ -1,0 +1,18 @@
+Klient 127.0.0.1:55473 provedl příkaz TRANSLATELOCL"thread"
+Server spuštěn na 192.168.0.114:65528
+Klient 192.168.0.114:58016 provedl příkaz TRANSLATELOCL"thread"
+Klient 192.168.0.114:58024 provedl příkaz TRANSLATEPING"ahojky"
+Server spuštěn na 192.168.0.114:65528
+Klient 192.168.0.114:59227 provedl příkaz TRANSLATEL"AHOJ"
+Klient 192.168.0.114:59229 provedl příkaz TRANSLATEL"thead"
+Klient 192.168.0.114:59231 provedl příkaz TRANSLATEL"thread"
+Klient 192.168.0.114:59232 provedl příkaz TRANSLATEL"threat"
+Klient 192.168.0.114:59241 provedl příkaz TRANSLATELOCL"execution"
+Klient 192.168.0.114:59267 provedl příkaz TRANSLATEPING""
+Klient 192.168.0.114:59286 provedl příkaz TRANSLATESCAN"desktop"
+Klient 192.168.0.114:59329 provedl příkaz 
+Klient 192.168.0.114:64571 provedl příkaz TRANSLATELOCL"thread"
+Klient 192.168.0.114:62373 provedl příkaz TRANSLATESCAN"thread"
+Klient 192.168.0.114:62378 provedl příkaz 
+Klient 192.168.0.114:62383 provedl příkaz TRANSLATESCAN"thread"
+Server spuštěn na 192.168.0.114:65528

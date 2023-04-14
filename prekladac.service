@@ -1,0 +1,13 @@
+[Unit]
+Description=Danieluv prekladac
+After=network.target
+
+[Service]
+ExecStart=/usr/bin/python /usr/bin/prekladac/src/main.py
+User=nobody
+WorkingDirectory=/usr/bin/prekladac
+Restart=on-failure
+RestartSecs=5
+
+[Install]
+WantedBy=multi-user.target
